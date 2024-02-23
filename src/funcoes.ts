@@ -6,4 +6,4 @@ function saudacao(nome: string = "Alef"): string {
     return `${nome} Diz Olá`
 }
 
-console.log(saudacao)
+console.log(saudacao())
